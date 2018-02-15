@@ -8,7 +8,7 @@ setup(
     py_modules=['{{ cookiecutter.project_name }}'],
     entry_points={
         'console_scripts': [
-            '{{ cookiecutter.project_name }}={{ cookiecutter.project_name }}:main',
+            '{{ cookiecutter.project_name }}={{ cookiecutter.project_name }}:hello',
          ],
     }
 )

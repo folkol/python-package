@@ -2,4 +2,4 @@
 
 
 def hello():
-    print('Hello, world!')
+    print('Hello, {{ cookiecutter.project_name }}!')
