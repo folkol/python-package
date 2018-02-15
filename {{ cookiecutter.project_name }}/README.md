@@ -18,5 +18,5 @@ Lorem Ipsum Dolor Sit Amet.
 
 ::
 
-    $ python setup.py upload
+    $ python setup.py sdist upload
 
